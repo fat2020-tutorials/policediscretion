@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Can an algorithmic system be a 'friend' to a police officer's discretion?
+ACM FAT* 2020 Translation Tutorial
 
-You can use the [editor on GitHub](https://github.com/fat2020tutorials/policediscretion/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Presenters: Marion Oswald, University of Northumbria, and Chief Superintendent David Powell, Hampshire Constabulary and PhD candidate, University of Northumbria, UK.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The overall goal of the tutorial is to increase understanding of the importance of discretion in police decision-making and to guide computer scientists in building algorithms that can be friends to that discretion.  By the end of the tutorial, the audience will have explored: 1. The legal concept of discretion in police decision-making in the context of common law, and potential legal challenges which could arise; 2. The realities and contexts in which police discretionary decisions are made, by reference to a MLA currently in development within a domestic violence context, and the views of victims, offenders and police officers; 3. Algorithmic design decisions/features which may help or hinder the legitimate exercise of police discretion; 4. Implications for the choice of data inputs, explanation of the output and the means by which it was obtained, user interface design and the interaction of the algorithmic system with other non-codified relevant information.
 
-### Markdown
+### Who is the target audience?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Anyone interested in considering practical, legal and technical issues crucial to avoiding the prejudicial and instead developing algorithms that are supportive – a ‘friend’– to legitimate police and other public sector discretionary decision-making.
 
-```markdown
-Syntax highlighted code block
+### Do I need to prepare anything before attending?
+None.  Just a willingness to participate and get involved in discussion!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fat2020tutorials/policediscretion/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Slides
+Slides will be available here soon.
