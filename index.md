@@ -19,4 +19,4 @@ Anyone interested in considering practical, legal and technical issues crucial t
 None.  Just a willingness to participate and get involved in discussion!
 
 ### Slides
-Slides will be available here soon.
+Slides available [here](https://github.com/fat2020tutorials/policediscretion/blob/master/FAT%202020%20TUTORIAL%20OSWALD%20POWELL.pdf).
